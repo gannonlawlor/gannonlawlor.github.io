@@ -1,0 +1,13 @@
+baseURL = 'http://gannonlawlor.com/'
+languageCode = 'en-us'
+title = 'Gannon Lawlor'
+theme = "papermod"
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+
+[params.homeInfoParams]
+	Title = "Hi there 👋"
+	Content = "**This is my thoughts on everything**"
