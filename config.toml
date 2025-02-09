@@ -10,4 +10,4 @@ theme = "papermod"
 
 [params.homeInfoParams]
 	Title = "Hi there 👋"
-	Content = "**This is my thoughts on everything**"
+	Content = ""
